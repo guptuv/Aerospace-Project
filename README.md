@@ -1,4 +1,6 @@
 # Aerofoil-Dynamics
+![image](https://github.com/user-attachments/assets/c974b794-d19f-4d65-a0cd-9ab9006af3b6)
+
 I have Used XFLR5 in this
 NACA 2412 ans 0012 aerofoil analysis 
 ![image](https://github.com/guptuv/Aerofoil-Dynamics/assets/116263507/eb47d936-d6ec-4196-ab67-b9968fa27e72)
